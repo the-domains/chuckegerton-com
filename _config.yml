@@ -1,0 +1,28 @@
+name: chuckegerton.com
+favicon: null
+layout_spectrum: 0.677307270700112
+typography_spectrum: 0.6010575138498098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.060399881564080715
+  lightness: 0.7524071906227618
+  saturation: 0.5421840210910887
+  rhythmicContrast: 0.37892037257552147
+purpose: []
